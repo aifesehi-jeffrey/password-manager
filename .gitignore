@@ -1,0 +1,6 @@
+vault.db
+*.db
+.env
+.venv/
+__pycache__/
+.pytest_cache/
