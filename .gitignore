@@ -1,6 +1,14 @@
+# Password database
 vault.db
 *.db
+
+# Environment files
 .env
 .venv/
+
+# Python generated files
 __pycache__/
+*.pyc
+
+# Testing files
 .pytest_cache/
